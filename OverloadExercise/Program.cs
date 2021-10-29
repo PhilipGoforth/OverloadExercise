@@ -6,10 +6,9 @@ namespace OverloadExercise
     {
         static void Main(string[] args)
         {
-            bool isTrue = true;
             Add(1, 2);
             Add(1.2, 3.4);
-            Add(3, 4, isTrue);
+            Add(3, 4, true);
         }
         static void Add(int num1, int num2)
         {
