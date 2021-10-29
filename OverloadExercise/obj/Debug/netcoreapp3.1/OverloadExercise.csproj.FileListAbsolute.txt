@@ -1,0 +1,14 @@
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.exe
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.deps.json
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.runtimeconfig.json
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.runtimeconfig.dev.json
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.dll
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\bin\Debug\netcoreapp3.1\OverloadExercise.pdb
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.csproj.AssemblyReference.cache
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.AssemblyInfoInputs.cache
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.AssemblyInfo.cs
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.dll
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.pdb
+C:\Users\Ego\repos\OverloadExercise\OverloadExercise\OverloadExercise\obj\Debug\netcoreapp3.1\OverloadExercise.genruntimeconfig.cache

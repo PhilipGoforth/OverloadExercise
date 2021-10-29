@@ -6,38 +6,38 @@ namespace OverloadExercise
     {
         static void Main(string[] args)
         {
-            
+            bool isTrue = true;
+            Add(1, 2);
+            Add(1.2, 3.4);
+            Add(3, 4, isTrue);
         }
-        static int Add(int num1, int num2)
+        static void Add(int num1, int num2)
         {
             var sum = num1 + num2;
-            return sum;
+            Console.WriteLine(sum); 
         }
-        static double Add(double num1, double num2)
+        static void Add(double num1, double num2)
         {
             var sum = num1 + num2;
-            return sum;
+            Console.WriteLine(sum);
         }
-        static string Add(int num1, int num2, bool isTrue)
+        static void Add(int num1, int num2, bool isTrue)
         {
             var sum = num1 + num2;
-            if (isTrue)
+            do
             {
-                if(sum == 1)
+               if(sum == 1)
                 {
-                    return $"{sum} dollar";
+                    Console.WriteLine($"{sum} dollar");
+                    break;
                 }
                 else
                 {
-                    return $"{sum} dollars";
+                    Console.WriteLine($"{sum} dollars");
+                    break;
                 }
-            }
-            else
-            {
-                return "no money";
-            }
-
-               
+            } while (isTrue);
+            
         }
     }
 }
