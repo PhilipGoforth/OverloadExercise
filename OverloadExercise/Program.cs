@@ -24,20 +24,11 @@ namespace OverloadExercise
         static void Add(int num1, int num2, bool isTrue)
         {
             var sum = num1 + num2;
-            do
+            if(isTrue)
             {
-               if(sum == 1)
-                {
-                    Console.WriteLine($"{sum} dollar");
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine($"{sum} dollars");
-                    break;
-                }
-            } while (isTrue);
-            
+                string answer = (sum == 1) ? $"{sum} dollar" : $"{sum} dollars";
+                Console.WriteLine(answer);
+            } 
         }
     }
 }
